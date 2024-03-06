@@ -1,4 +1,4 @@
-package at.kaindorf.weatherstation;
+package weatherstation;
 
 public interface Subject {
     public void registerObserver(Observer o);

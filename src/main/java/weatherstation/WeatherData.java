@@ -1,4 +1,4 @@
-package at.kaindorf.weatherstation;
+package weatherstation;
 
 import java.util.ArrayList;
 import java.util.List;

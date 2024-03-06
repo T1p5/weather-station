@@ -1,7 +1,7 @@
-package at.kaindorf.weatherstation.display;
+package weatherstation.display;
 
-import at.kaindorf.weatherstation.Observer;
-import at.kaindorf.weatherstation.Subject;
+import weatherstation.Observer;
+import weatherstation.Subject;
 
 public class CurrentConditionsDisplay implements Observer, DisplayElement {
     private float temperature;

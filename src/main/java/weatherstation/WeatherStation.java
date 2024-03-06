@@ -1,9 +1,9 @@
-package at.kaindorf.weatherstation;
+package weatherstation;
 
-import at.kaindorf.weatherstation.display.CurrentConditionsDisplay;
-import at.kaindorf.weatherstation.display.ForecastDisplay;
-import at.kaindorf.weatherstation.display.HeatIndexDisplay;
-import at.kaindorf.weatherstation.display.StatisticsDisplay;
+import weatherstation.display.CurrentConditionsDisplay;
+import weatherstation.display.ForecastDisplay;
+import weatherstation.display.HeatIndexDisplay;
+import weatherstation.display.StatisticsDisplay;
 
 public class WeatherStation {
 

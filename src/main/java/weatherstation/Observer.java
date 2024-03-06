@@ -1,4 +1,4 @@
-package at.kaindorf.weatherstation;
+package weatherstation;
 
 public interface Observer {
     public void update(float temp, float humidity, float pressure);

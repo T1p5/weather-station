@@ -1,8 +1,9 @@
-package at.kaindorf.weatherstation.display;
+package weatherstation.display;
 
 
-import at.kaindorf.weatherstation.Observer;
-import at.kaindorf.weatherstation.WeatherData;
+import weatherstation.Observer;
+import weatherstation.WeatherData;
+import weatherstation.display.DisplayElement;
 
 public class ForecastDisplay implements Observer, DisplayElement {
 

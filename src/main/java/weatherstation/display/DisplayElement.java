@@ -1,4 +1,4 @@
-package at.kaindorf.weatherstation.display;
+package weatherstation.display;
 
 public interface DisplayElement {
     public void display();
